@@ -1,5 +1,5 @@
 ---
 title: Happy Traveling
-bigimg: [{src: "/img/island2"}]
+bigimg: [{src: "/img/island2.jpg"}]
 ---
 ## Happy Traveling

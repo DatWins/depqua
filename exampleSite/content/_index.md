@@ -1,3 +1,3 @@
 ## Happy Content
-{src: "/img/triangle.jpg"}
+{{</* figure src="/img/triangle.jpg" */>}}
 

@@ -1,4 +1,4 @@
-## Happy Traveling
+## Are You Ready? 
 
-Here's an image: ![My Awesome Image](img/island2.jpg)
+Here's an image: ![My Awesome Image](img/magical.jpg)
 

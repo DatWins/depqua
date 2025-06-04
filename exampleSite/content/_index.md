@@ -1,3 +1,3 @@
 ## Happy Content
-bigimg: [{src: "/img/triangle.jpg"}]
+{src: "/img/triangle.jpg"}
 
